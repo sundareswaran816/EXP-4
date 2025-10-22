@@ -15,7 +15,9 @@ S.No	Name of the Apparatus	Range	Quantity
 6	Digital Voltmeter	(0-20)V DC	1
 7	Connecting Wires	As Required	
 
-CIRCUIT DIAGRAM:![WhatsApp Image 2025-10-22 at 11 47 18_7dcab54f](https://github.com/user-attachments/assets/50997787-6844-40f9-9abf-699b73611091)
+CIRCUIT DIAGRAM:
+<img width="349" height="216" alt="image" src="https://github.com/user-attachments/assets/942a9ab5-8f4a-41b9-9c60-d619d16a62db" />
+<img width="347" height="204" alt="image" src="https://github.com/user-attachments/assets/88428c33-8622-4572-851d-790bf57ee9e6" />
 
 THEORY:
 	
@@ -28,13 +30,14 @@ PROCEDURE:
 3. The voltage across the diode (Vz.) remains almost constant although the current through the diode increases. This voltage serves as reference voltage.
 4. The zener current (lz), and the zener voltage (Vz.) are observed and then noted in the tabular form.
 4. A graph is plotted between zener current (Iz) on y-axis and zener voltage (Vz) on x-axis.
-OBSERVATIONS:![WhatsApp Image 2025-10-22 at 11 51 51_bf5005ad](https://github.com/user-attachments/assets/c8ed4945-8b60-4695-83af-1c97c436bc88)
+   
+OBSERVATIONS:
+<img width="323" height="235" alt="image" src="https://github.com/user-attachments/assets/2765c4a1-ceea-4499-9dc4-25d3dfc27717" />
+<img width="324" height="238" alt="image" src="https://github.com/user-attachments/assets/1ab606c4-f443-4b8b-82b6-fad6320d9481" />
 
-
-REGULATION CHARACTERISTICS:
-
-V-I & REGULATION CHARACTERISTICS:![WhatsApp Image 2025-10-22 at 11 47 18_2f78a5ed](https://github.com/user-attachments/assets/9cf10543-6511-427e-90b5-2e4d122a3565)
-
+V-I & REGULATION CHARACTERISTICS:
+<img width="659" height="222" alt="image" src="https://github.com/user-attachments/assets/fd428262-0460-4750-b161-278fd0cf92ae" />
+<img width="658" height="224" alt="image" src="https://github.com/user-attachments/assets/b290c751-f067-46ae-af03-029005f4887d" />
 
 PRECAUTIONS:
 
